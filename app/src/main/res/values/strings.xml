@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trump Facts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_snapple_facts">Snapple Facts</string>
+    <string name="titleSnappleFacts">“Pro Trump Facts”</string>
+    <string name="defaultSnappleText">These facts make you like the big D!</string>
+    <string name="showNewFactButton">Show Me Another!</string>
+    <string name="title_activity_history_facts">Anti Trump Facts</string>
+    <string name="titleHistoryFacts">Potentially Negative Facts</string>
+    <string name="defaultHistoryText">Welcome to the liberal side!</string>
+    <string name="title_activity_sports_facts">Republican Facts</string>
+    <string name="titleSportsFacts">Republican Facts</string>
+    <string name="defaultSportsText">The conservative, American side!</string>
+    <string name="title_activity_animal_facts">Democrat Facts</string>
+    <string name="titleAnimalFacts">Liberal Facts</string>
+    <string name="defaultAnimalText">These are Facts!</string>
+
+</resources>
